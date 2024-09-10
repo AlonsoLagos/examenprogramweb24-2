@@ -1,0 +1,59 @@
+body {
+    margin : 0;
+}
+
+
+
+header {
+   background-color: black;
+   height: 80px;
+   
+   
+
+    
+}
+
+section {
+    display: flex;
+    width: 1200px;
+    color:white;
+    padding-right: 120px;
+    padding-left: 75px;
+    align-items: center;
+    padding-top: 10px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+    
+   
+    
+
+}
+
+section .logo {
+    padding-right: 1%;
+}
+
+section .telefono {
+    padding-left: 1%;
+}
+
+section h6 {
+    padding-left: 1%;
+
+}
+
+
+section h4 {
+    padding-left: 1%;
+}
+
+section #busqueda {
+    width: 300px;
+}
+
+
+
+
+
+
+
